@@ -10,4 +10,12 @@ public class task {
         System.out.println(b);
         System.out.println(c);
     }
+
 }
+
+
+
+
+
+
+////////////////
