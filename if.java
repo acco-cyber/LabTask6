@@ -20,4 +20,9 @@ private static final Scanner scanner = new Scanner(System.in);
             } else if (N > 20) { // If n is even and greater than 20
                 System.out.println("Not Weird");
             } }
+
         scanner.close(); }}
+
+
+
+.../
