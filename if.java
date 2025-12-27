@@ -25,7 +25,6 @@ private static final Scanner scanner = new Scanner(System.in);
 
 
 
-...////....ok0ojinoyui
-mnbvcxz
+
 
 
