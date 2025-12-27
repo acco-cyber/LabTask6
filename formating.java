@@ -13,4 +13,11 @@ public class formating {
         System.out.println("================================");
         sc.close();
     }    
+
 }
+
+
+
+
+
+----------------
